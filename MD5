@@ -1,0 +1,8 @@
+b5a61c6631ddd5d89b55b2fbe554c158 *DESCRIPTION
+7c70cef8a6007b026c5bf0201c9e15ea *LICENSE
+28d3967c4e2933ba4029e2d948f1fe5b *NAMESPACE
+e0106b0e58d24d34a5a3c2cf367256ad *R/calculate_pk.R
+e9a45b34a3a0dd693d1d7cb0cd54877b *R/compare_pks.R
+b8ac57a9596c026dd9768884f4a04924 *README.md
+6100ede2d358b07e913e881d5c0fa13b *man/calculate_pk.Rd
+24ab7c01a4fb0cecb7a1adc0da8efaf2 *man/compare_pks.Rd
